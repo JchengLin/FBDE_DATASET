@@ -1,7 +1,7 @@
-# FBDE_DATASET
+# FBPP_DATASET
 This repository provides the official FBDE_DATASET implementation of paper:"FBDE: Full-Body Privacy-Preserving Method via Adversarial Learning and Contrastive Learning."
 
-# THE DETAIL OF THE FBDE DATASET.
+# THE DETAIL OF THE FBPP DATASET.
 
 FBPP LEVEL I: The image’s characters, dress styles, and backgrounds in trainA and trainB are unified. The images numbers of trainA, trainB, testA is 1050, 1050, and 100, respectively.
 
