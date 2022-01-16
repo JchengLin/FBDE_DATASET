@@ -1,5 +1,5 @@
 # FBPP_DATASET
-This repository provides the official FBDE_DATASET implementation of paper:"FBDE: Full-Body Privacy-Preserving Method via Adversarial Learning and Contrastive Learning."
+This repository provides the official FBDE_DATASET implementation of paper:"FBDE: Full Body Privacy-Preserving Method via Adversarial Learning and Contrastive Learning."
 
 # THE DETAIL OF THE FBPP DATASET.
 
